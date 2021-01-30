@@ -1,2 +1,2 @@
 # calculator-webpage
-Webpage using Html, Css and Javascript
+Webpage using Html, Css  and Javascript
